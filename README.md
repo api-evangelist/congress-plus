@@ -64,5 +64,18 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Congress Plus is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://congressplus.com/
+Congress Plus provides an online platform that appears to offer services related to congressional information and mobile access. The website features links to a mobile login portal and a contact page, indicating a focus on delivering congressional data or tools to users. Further details are limited, but the site identifies itself as "Congress Plus Online" and includes branding and navigation elements typical of a service-oriented web application.
+
+**Areas:** Government · Data · Platform · Mobile · Service · Congress
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://congressplus.com/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/congress-plus/](https://apis.io/providers/congress-plus/).
